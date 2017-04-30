@@ -1,0 +1,19 @@
+author: Michael Clark
+
+
+1. Download Pre-Req APPs and install on system - 
+   a. Docker CE - https://www.docker.com/community-edition#/download
+   b. GIT - OS X -      brew install GIT
+         Windows -      Download and install git app - https://git-scm.com/downloads
+           Linux -      apt-get install git or yum install git
+2. Start Docker CE App 
+
+3. Go to cli and run: git clone https://github.com/cmj77/SafeNetworking-APIcollector.git
+
+4. cd into directory cloned
+
+5. run from cli - docker-compose build
+
+6. run from cli - docker-compose up
+
+7. access website to if the container is running
