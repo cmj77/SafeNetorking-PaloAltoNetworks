@@ -16,4 +16,4 @@ author: Michael Clark
 
 6. run from cli - docker-compose up
 
-7. access website to if the container is running
+7. Access the containers website to validate that it is running http://0.0.0.0:8808
