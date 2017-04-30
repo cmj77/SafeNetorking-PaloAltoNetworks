@@ -10,7 +10,7 @@ author: Michael Clark
 
 3. Go to cli and run: git clone https://github.com/cmj77/SafeNetworking-APIcollector.git
 
-4. cd into directory cloned
+4. cd SafeNetworking-PaloAltoNetworks - go into directory that was just cloned
 
 5. run from cli - docker-compose build
 
