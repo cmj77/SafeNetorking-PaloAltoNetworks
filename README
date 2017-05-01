@@ -8,7 +8,7 @@ author: Michael Clark
            Linux -      apt-get install git or yum install git
 2. Start Docker CE App 
 
-3. Go to cli and run: git clone https://github.com/cmj77/SafeNetworking-APIcollector.git
+3. Go to cli and run: git clone git clone https://github.com/cmj77/SafeNetworking-PaloAltoNetworks
 
 4. cd SafeNetworking-PaloAltoNetworks - go into directory that was just cloned
 
